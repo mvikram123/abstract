@@ -21,6 +21,7 @@ public class Main {
         Student obj = new Student();
         System.out.println("name:" + obj.name);
         System.out.println("age :" + obj.age);
+
         System.out.println("graduation year:" + obj.graduationYear);
 
         obj.study();
